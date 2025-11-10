@@ -7,6 +7,6 @@ The Projects are as follows:
 ### 1. Anchor-Hold Retail Group
 Anchor-Hold Retail Group is a multinational consumer goods company operating across diverse markets including North America, Europe, and Asia. With a broad product portfolio and customer base spanning government, enterprise midmarket, and small business segments, the company has experienced rapid expansion over the past two years. This analysis was performed using MS Excel.
 
-![Image](Anchor-Hold.PNG)(https://drive.google.com/file/d/1uCq0RtJlWwOVoLArO_9L1asxbXFDwTQL/view?usp=drive_link)
+![Image](Anchor-Hold.PNG)[View Image](https://drive.google.com/file/d/1uCq0RtJlWwOVoLArO_9L1asxbXFDwTQL/view?usp=drive_link)
 
 [View Project](https://docs.google.com/document/d/1_fjLGoXEhm_nGPI003i1QKGBtnuk4TleI6gPMI_cGII/edit?usp=drivesdk)
